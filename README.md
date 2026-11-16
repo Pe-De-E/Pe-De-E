@@ -1,40 +1,24 @@
 # Hi, I'm Philipp 👋
 
-I'm a web developer from Germany, currently in a coding bootcamp on my way to becoming a full-stack developer. I'm passionate about building clean, functional web applications — from the frontend all the way to the backend — and always looking to learn something new.
+Full-stack web developer from Germany. I build TypeScript applications end to end — from database schema and API to a tested, accessible UI — and I like turning messy real-world data into something people can actually use.
 
----
+📄 **Portfolio & CV:** [cv-eight-blush.vercel.app](https://cv-eight-blush.vercel.app)
 
-## Tech Stack
+## Featured projects
 
-**Frontend**
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**Altavio**](https://github.com/Pe-De-E/chart-generator) | Turns CSV and GPX data into publication-quality SVG charts, route maps and animated MP4 videos, rendered in the browser | Vue 3, TypeScript, Fastify, PostgreSQL, pnpm monorepo |
+| [**Furbase**](https://github.com/Pe-De-E/furbase) · [live](https://furbase.onrender.com/en) | Management platform built for a real animal shelter: animals, adoption requests, dog-walking volunteers, admin workflows | Next.js 16, React 19, Drizzle, PostgreSQL, Auth.js, Playwright |
+| [**Weather Anomalie**](https://github.com/Pe-De-E/climate) · [live](https://climate-432q.onrender.com/) | Compares current and historical weather with the 1961–1990 climate normal, locally or on a world map | Next.js, Express, MongoDB, Leaflet, Turborepo |
+| [**Chronoboard**](https://github.com/Emberleif/Chronoboard) | Contributor to an Obsidian plugin for note-native time tracking | JavaScript, Obsidian API |
+| [**Portfolio**](https://github.com/Pe-De-E/cv) | Bilingual CV site with CI, unit/E2E tests and automated accessibility checks | React, TypeScript, Vitest, Playwright, GitHub Actions |
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![AG Grid](https://img.shields.io/badge/AG--Grid-FF6F00?style=for-the-badge&logo=aggrid&logoColor=white)
+## Tech stack
 
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=PhilippDemmelmair&show_icons=true&count_private=true&theme=gruvbox" />
-
----
-
-- On my way to becoming a full-stack developer
-- Currently learning and building in a web development bootcamp
-- Open to collaborating on interesting projects
-- Always up for exchanging ideas and feedback
+**Languages:** TypeScript, JavaScript, HTML, CSS, Python
+**Frontend:** React, Next.js, Vue 3, Tailwind CSS, Leaflet
+**Backend:** Node.js, Express, Fastify, Auth.js
+**Data:** PostgreSQL, Drizzle ORM, MongoDB
+**Testing & quality:** Vitest, Playwright, React Testing Library, axe, ESLint
+**Tooling:** Git, GitHub Actions, Docker, pnpm, Turborepo
